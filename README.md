@@ -50,7 +50,10 @@ Here's a walkthrough of implemented user stories:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    
-   Some challenges that I have gone through were debugging and internet issues.
+   Some challenges that I have gone through during the project were adding the sound to buttons and debugging. One problem that I had was having no sounds after clicking the buttons. At first, I thought that was the Internet issue, and I tried to refresh the page but there were still no sounds. Then, I started to think there should be something wrong with my code. Therefore, I went back to the script.js file to check if there were any errors within my sound synthesis functions. However, I didn't find any. Next, I considered the connections between the buttons and the sound. Buttons have implied the function of starting the tone and ending the tone. I traced back to the index.html file and found my error in the gameButtonArea eventually.  
+   
+   When I got to the part where we need to complete the guess function, I tried to write the code by myself. But I ran into some errors after I finished the code. I recalled the console logging method mentioned in the tutorial. Therefore, I tried to print things out so that I can see what happens after my program executes. By using this method, I successfully found out one of my variables was not incremented and completed the function. 
+
 
 3. What questions about web development do you have after completing your submission?
   
