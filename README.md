@@ -4,7 +4,7 @@
 
 Submitted by: **Yi Ding**
 
-Time spent: **3** hours spent in total
+Time spent: **3.5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/forest-comfortable-myrtle?path=README.md%3A9%3A17
 
@@ -22,8 +22,8 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-- [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+- [X] Buttons use a pitch (frequency) other than the ones in the tutorial
 - [ ] More than 4 functional game buttons
 - [ ] Playback speeds up on each turn
 - [ ] Computer picks a different pattern each time the game is played
@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [ ] Users can pick the difficulty levels
 
 ## Video Walkthrough
 
@@ -50,15 +50,15 @@ Here's a walkthrough of implemented user stories:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    
-   [YOUR ANSWER HERE]
+   Some challenges that I have gone through were debugging and internet issues.
 
 3. What questions about web development do you have after completing your submission?
   
-   Since this is a single webpage, I am wondering how does mutiple webpages connect to each other?
+   Most websites now have more than one web page, I want to know how these web pages are connected together, and where the data used behind them comes from. I know the second question has to do with data management and SQL, and I am interested to learn more about these.
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc)?
    
-   If I have more time, I would 
+   This is a very interesting game where can be upgraded so that the players can have more ways to play. If I have more time, I would definitely add more features to the game, such as adding more buttons and more challenging levels to players. Since we can add different pitch frequencies, I think it will be nice to have different instrument sounds. It can be classical instrument sounds or modern electronic sounds and more. In order to increase the difficulty of the game, I will also speed up on each difficulty level. In this way, the player must remember these sequences faster. For more interesting features, I would also set a certain number of buttons to represent different keys of a certain instrument and then generate a pattern of tones that can play a simple song. This game mode can help players memorize sheet music. 
 
 ## License
 
